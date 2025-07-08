@@ -1,0 +1,7 @@
+ultralytics==8.2.13
+matplotlib==3.7.1
+pandas==1.5.3
+seaborn==0.12.2
+Pillow==9.5.0
+ipython==7.34.0
+google-colab==1.0.0
