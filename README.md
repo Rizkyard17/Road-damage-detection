@@ -49,7 +49,7 @@ Letakkan file ZIP ke dalam Google Drive Anda dan ekstrak di lokasi:
 ### 1. Clone Repo (opsional)
 
 ```bash
-git clone https://github.com/username/road-damage-detection.git
+https://github.com/Rizkyard17/Road-damage-detection.git
 cd road-damage-detection
 ```
 
@@ -182,17 +182,6 @@ cls: 0.7
 ## 📌 To Do (Pengembangan Selanjutnya)
 
 * Deploy ke web menggunakan **Streamlit** atau **Flask**
-* Optimasi model ke ONNX atau TensorRT
 * Implementasi pipeline prediksi video real-time
 
 ---
-
-## 👤 Author
-
-**M. Rizky Ardiansyah Putra**
-📧 [rizky.ardiansyah@email.com](mailto:rizky.ardiansyah@email.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
-
----
-
-Kalau mau, saya bisa bikinin juga file `requirements.txt` yang sesuai. Mau sekalian?
